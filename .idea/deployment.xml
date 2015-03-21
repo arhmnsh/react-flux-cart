@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="fluxcart-react-tutorial">
+    <serverData>
+      <paths name="fluxcart-react-tutorial">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="React/react-flux-cart-tutorial" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
